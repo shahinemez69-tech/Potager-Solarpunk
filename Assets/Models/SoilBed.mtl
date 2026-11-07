@@ -1,0 +1,4 @@
+newmtl Soil
+Kd 0.35 0.22 0.12
+newmtl Wood
+Kd 0.6 0.45 0.3

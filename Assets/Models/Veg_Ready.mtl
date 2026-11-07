@@ -1,0 +1,4 @@
+newmtl Red
+Kd 0.9 0.15 0.1
+newmtl Leaf
+Kd 0.2 0.7 0.35

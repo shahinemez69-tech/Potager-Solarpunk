@@ -1,0 +1,4 @@
+newmtl Trunk
+Kd 0.45 0.3 0.15
+newmtl Leaf
+Kd 0.15 0.6 0.25
